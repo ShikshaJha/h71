@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(240, 240, 94);
+}
+
+header{
+    background-color: rgb(221, 26, 140);
+}
+
+p{
+    background-color:rgb(133, 223, 226);
+    color: rgb(2, 2, 49);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+b{
+    color: red;
+}
+i{
+    color: green;
+}
+
+nav{
+    background-color:darksalmon;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
